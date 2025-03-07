@@ -1,0 +1,22 @@
+public class Contagem{
+  Scanner prompt = new Scanner(System.in);
+  int n;
+  int nota;
+  int cont = 0;
+  int i = 0;
+    public void Contagem(){
+      System.out.println("Digite a quantidade de alunos: ");
+      int n = prompt.nextInt();
+      while(i < n){
+        i = i + 1;
+        System.out.println("Nota do aluno: " + i);
+        nota = prompt.nextInt();
+        if(nota < 50){
+          cont = cont + 0;
+        }
+        else {
+          cont = cont + 1;
+        }
+      }
+    } 
+}

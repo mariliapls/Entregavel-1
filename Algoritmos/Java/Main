@@ -1,0 +1,21 @@
+public class Main {
+  public static void main(String[] args) {
+// Ordenacao a1 = new Ordenacao();
+// a1.Ordenacao();
+  
+// Somatorio a2 = new Somatorio();
+// a2.Somatorio();
+
+// Contagem a3 = new Contagem();
+// a3.Contagem();
+
+// Fibonacci a4 = new Fibonacci();
+// a4.Fibonacci();
+
+// NumeroPrimo a5 = new NumeroPrimo();
+// a5.NumeroPrimo();
+
+// MaximoDivisorComum a6 = new MaximoDivisorComum();
+// a6.MaximoDivisorComum();
+
+
